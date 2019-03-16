@@ -1,2 +1,5 @@
 /target
 **/*.rs.bk
+/site/node_modules
+/hello-wasm/pkg
+/hello-wasm/target
