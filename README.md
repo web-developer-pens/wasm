@@ -1,7 +1,9 @@
 #Rerefences
 https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
 
-#How To Compile
+<hr/>
+
+#How To Compile <br/>
 <code>cd hello-wasm</code>
 
 <code>wasm-pack build --scope your-npm-username</code>
